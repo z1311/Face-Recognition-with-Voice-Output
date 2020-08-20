@@ -1,4 +1,4 @@
-# Face-Recognition-with-Voice-Output
+# Face Recognition with Voice Output
 The objective of this project is to detect and recognise the faces from the scene and give the person name as voice output to the user.<br/>
 It has three modules: 
 1.	Creator
